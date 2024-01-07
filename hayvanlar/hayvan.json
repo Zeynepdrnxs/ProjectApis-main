@@ -1,0 +1,27 @@
+[
+    {
+      "ad": "Aslan",
+      "tür": "Memeli",
+      "özellikler": ["Güçlü", "Sosyal", "Avcı"]
+    },
+    {
+      "ad": "Kartal",
+      "tür": "Kuş",
+      "özellikler": ["Uçucu", "Keskin Bakışlı", "Yüksekten Uçucu"]
+    },
+    {
+      "ad": "Balina",
+      "tür": "Memeli",
+      "özellikler": ["Devasa", "Denizde Yaşayan", "Sosyal"]
+    },
+    {
+      "ad": "Kurbağa",
+      "tür": "Amfibi",
+      "özellikler": ["Suda ve Karada Yaşayan", "Zıplayıcı", "Tekerleği Gibi Gözleri"]
+    },
+    {
+      "ad": "Koala",
+      "tür": "Memeli",
+      "özellikler": ["Ağaçlarda Yaşayan", "Yavaş Hareket Eden", "Eukaliptüs Yiyen"]
+    }
+  ]

@@ -1,0 +1,33 @@
+[
+  {
+    "baslik": "Ayasofya",
+    "altBaslik": "Bizans İmparatoru I. Justinianus tarafından 537 yılında inşa edilen bir kilise.",
+    "detay": "https://rawcdn.githack.com/cagataymuhammet/MedipolApis/983fb10efa72cd56246e530abad376baae17875d/istanbul/ayasofya.html",
+    "resimURL": "https://raw.githubusercontent.com/cagataymuhammet/MedipolApis/main/istanbul/ayasofya.png"
+  },
+  {
+    "baslik": "Boğaz Köprüsü",
+    "altBaslik": "İstanbul Boğazı'nı Avrupa ve Asya kıtalarını birbirine bağlayan ulaşım yolu.",
+    "detay": "Boğaz Köprüsü, Türkiye'nin ilk köprüsü olma özelliğini taşır.",
+    "resimURL": "https://raw.githubusercontent.com/cagataymuhammet/MedipolApis/main/istanbul/bogaz.png"
+  },
+  {
+    "baslik": "Galata Kulesi",
+    "altBaslik": "Cenevizliler tarafından 1348 yılında inşa edilen bir kule.",
+    "detay": "Galata Kulesi, tarihi dokusu ve eşsiz manzarasıyla ünlüdür. Günümüzde turistlerin ilgisini çeken bir noktadır.",
+    "resimURL": "https://raw.githubusercontent.com/cagataymuhammet/MedipolApis/main/istanbul/galata.png"
+  },
+  {
+    "baslik": "Kız Kulesi",
+    "altBaslik": "İstanbul Boğazı'nda, Üsküdar sahilinde yer alan tarihi bir kule.",
+    "detay": "Kız Kulesi, efsanelere ve romantik hikayelere konu olmuş, İstanbul'un simgelerinden biridir.",
+    "resimURL": "https://raw.githubusercontent.com/cagataymuhammet/MedipolApis/main/istanbul/kiz_kulesi.png"
+  },
+  {
+    "baslik": "Taksim Meydanı",
+    "altBaslik": "İstanbul'un modern simgelerinden biri olan Taksim Meydanı.",
+    "detay": "Taksim Meydanı, İstanbul'un Avrupa yakasında bulunan meydan, çeşitli etkinliklere ve kafelere ev sahipliği yapmaktadır. Taksim Gezi Parkı ile birlikte önemli bir buluşma noktasıdır.",
+    "resimURL": "https://raw.githubusercontent.com/cagataymuhammet/MedipolApis/main/istanbul/taksim.png"
+  }
+]
+

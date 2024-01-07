@@ -1,0 +1,76 @@
+
+[
+  {
+    "baslik": "Koç",
+    "altBaslik": "21 Mart - 19 Nisan",
+    "resimURL": "https://raw.githubusercontent.com/cagataymuhammet/MedipolApis/main/burclar/koc.png",
+    "detay": "Burcunuz Koç, enerjik ve liderlik özelliklerine sahip bir burçtur. Cesur, bağımsız ve atılgan bir yapıya sahiptir. Yeni başlangıçlara olan ilgisi ve kararlılığıyla bilinir."
+  },
+  {
+    "baslik": "Boğa",
+    "altBaslik": "20 Nisan - 20 Mayıs",
+    "resimURL": "https://raw.githubusercontent.com/cagataymuhammet/MedipolApis/main/burclar/boga.png",
+    "detay": "Burcunuz Boğa, sabırlı ve pratik bir burçtur. Dünyevi zevklere ve güzelliklere değer verir. Kararlılığı ve istikrar arayışıyla bilinir."
+  },
+  {
+    "baslik": "İkizler",
+    "altBaslik": "21 Mayıs - 20 Haziran",
+    "resimURL": "https://raw.githubusercontent.com/cagataymuhammet/MedipolApis/main/burclar/ikizler.png",
+    "detay": "Burcunuz İkizler, meraklı ve iletişimci bir burçtur. Zeki, esnek ve adaptasyon yeteneğine sahiptir. İkiyüzlülükten hoşlanmayan ve özgürlüğüne düşkün bir burçtur."
+  },
+  {
+    "baslik": "Yengeç",
+    "altBaslik": "21 Haziran - 22 Temmuz",
+    "resimURL": "https://raw.githubusercontent.com/cagataymuhammet/MedipolApis/main/burclar/yengec.png",
+    "detay": "Burcunuz Yengeç, duygusal ve koruyucu bir burçtur. Aile ilişkilerine önem verir, duygusal bağları güçlüdür. Hassas ve duyarlı bir yapısı vardır."
+  },
+  {
+    "baslik": "Aslan",
+    "altBaslik": "23 Temmuz - 22 Ağustos",
+    "resimURL": "https://raw.githubusercontent.com/cagataymuhammet/MedipolApis/main/burclar/aslan.png",
+    "detay": "Burcunuz Aslan, cesur ve yaratıcı bir burçtur. Liderlik özellikleri ile öne çıkar, dikkat çekmeyi seven ve kendine güvenen bir yapısı vardır."
+  },
+  {
+    "baslik": "Başak",
+    "altBaslik": "23 Ağustos - 22 Eylül",
+    "resimURL": "https://raw.githubusercontent.com/cagataymuhammet/MedipolApis/main/burclar/basak.png",
+    "detay": "Burcunuz Başak, düzenli ve analitik bir burçtur. Titizlik, iş disiplini ve detaylara önem verme özellikleri ile tanınır. Pratik ve gerçekçi bir yaklaşıma sahiptir."
+  },
+  {
+    "baslik": "Terazi",
+    "altBaslik": "23 Eylül - 22 Ekim",
+    "resimURL": "https://raw.githubusercontent.com/cagataymuhammet/MedipolApis/main/burclar/terazi.png",
+    "detay": "Burcunuz Terazi, adaleti seven ve uyumlu bir burçtur. Güzellik ve estetiğe duyarlıdır. İlişkilerde denge ve uyum arayışı içindedir."
+  },
+  {
+    "baslik": "Akrep",
+    "altBaslik": "23 Ekim - 21 Kasım",
+    "resimURL": "https://raw.githubusercontent.com/cagataymuhammet/MedipolApis/main/burclar/akrep.png",
+    "detay": "Burcunuz Akrep, tutkulu ve kararlı bir burçtur. Derin duygulara sahiptir, gizemli ve detaylara odaklıdır. Zorluklarla başa çıkma konusunda güçlüdür."
+  },
+  {
+    "baslik": "Yay",
+    "altBaslik": "22 Kasım - 21 Aralık",
+    "resimURL": "https://raw.githubusercontent.com/cagataymuhammet/MedipolApis/main/burclar/yay.png",
+    "detay": "Burcunuz Yay, özgür ruhlu ve maceraperest bir burçtur. Keşfetmeye ve öğrenmeye büyük bir ilgi duyar. Optimist ve iyimser bir yapıya sahiptir."
+  },
+  {
+    "baslik": "Oğlak",
+    "altBaslik": "22 Aralık - 19 Ocak",
+    "resimURL": "https://raw.githubusercontent.com/cagataymuhammet/MedipolApis/main/burclar/oglak.png",
+    "detay": "Burcunuz Oğlak, disiplinli ve hırslı bir burçtur. İş odaklı, sorumluluk sahibi ve uzun vadeli hedeflere odaklanan bir yapıya sahiptir."
+  },
+  {
+    "baslik": "Kova",
+    "altBaslik": "20 Ocak - 18 Şubat",
+    "resimURL": "https://raw.githubusercontent.com/cagataymuhammet/MedipolApis/main/burclar/kova.png",
+    "detay": "Burcunuz Kova, yenilikçi ve bağımsız bir burçtur. Toplumsal konulara duyarlıdır, sıra dışı düşünce yapısıyla öne çıkar. Özgürlüğüne düşkündür."
+  },
+  {
+    "baslik": "Balık",
+    "altBaslik": "19 Şubat - 20 Mart",
+      "resimURL": "https://raw.githubusercontent.com/cagataymuhammet/MedipolApis/main/burclar/balik.png",
+     "detay": "Burcunuz Balık, duyarlı ve içsel bir burçtur. Sanatsal ve intuitif bir yapısı vardır. Empati yeteneği güçlüdür, duygusal derinliklere sahiptir."
+
+      }
+]
