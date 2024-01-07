@@ -1,27 +1,32 @@
 [
     {
       "ad": "Aslan",
-      "tür": "Memeli",
+      "resimURL": "https://rawcdn.githack.com/Zeynepdrnxs/ProjectApis-main/51a53e9f796251561592eb5767556282c78670a8/hayvanlar/aslan.png",
+      "detay": "https://rawcdn.githack.com/Zeynepdrnxs/ProjectApis-main/51a53e9f796251561592eb5767556282c78670a8/hayvanlar/html/aslan.html",
       "özellikler": ["Güçlü", "Sosyal", "Avcı"]
     },
     {
       "ad": "Kartal",
-      "tür": "Kuş",
+      "resimURL": "https://rawcdn.githack.com/Zeynepdrnxs/ProjectApis-main/51a53e9f796251561592eb5767556282c78670a8/hayvanlar/kartal.png",
+      "detay": "https://rawcdn.githack.com/Zeynepdrnxs/ProjectApis-main/51a53e9f796251561592eb5767556282c78670a8/hayvanlar/html/kartal.html",
       "özellikler": ["Uçucu", "Keskin Bakışlı", "Yüksekten Uçucu"]
     },
     {
       "ad": "Balina",
-      "tür": "Memeli",
+      "resimURL": "https://rawcdn.githack.com/Zeynepdrnxs/ProjectApis-main/51a53e9f796251561592eb5767556282c78670a8/hayvanlar/balina.png",
+      "detay": "https://rawcdn.githack.com/Zeynepdrnxs/ProjectApis-main/51a53e9f796251561592eb5767556282c78670a8/hayvanlar/html/balina.html",
       "özellikler": ["Devasa", "Denizde Yaşayan", "Sosyal"]
     },
     {
       "ad": "Kurbağa",
-      "tür": "Amfibi",
+      "resimURL": "https://rawcdn.githack.com/Zeynepdrnxs/ProjectApis-main/51a53e9f796251561592eb5767556282c78670a8/hayvanlar/kurbaga.png",
+      "detay": "https://rawcdn.githack.com/Zeynepdrnxs/ProjectApis-main/51a53e9f796251561592eb5767556282c78670a8/hayvanlar/html/kurbaga.html",
       "özellikler": ["Suda ve Karada Yaşayan", "Zıplayıcı", "Tekerleği Gibi Gözleri"]
     },
     {
       "ad": "Koala",
-      "tür": "Memeli",
+      "resimURL": "https://rawcdn.githack.com/Zeynepdrnxs/ProjectApis-main/51a53e9f796251561592eb5767556282c78670a8/hayvanlar/koala.png",
+      "detay": "https://rawcdn.githack.com/Zeynepdrnxs/ProjectApis-main/51a53e9f796251561592eb5767556282c78670a8/hayvanlar/html/koala.html",
       "özellikler": ["Ağaçlarda Yaşayan", "Yavaş Hareket Eden", "Eukaliptüs Yiyen"]
     }
   ]
