@@ -1,32 +1,35 @@
 [
+  {
+    "baslik": "Aslan",
+    "altBaslik": ["Güçlü", "Sosyal", "Avcı"],
+    "resimURL": "https://raw.githack.com/Zeynepdrnxs/ProjectApis-main/master/hayvanlar/aslan.png",
+    "detay": "Burcunuz Koç, enerjik ve liderlik özelliklerine sahip bir burçtur. Cesur, bağımsız ve atılgan bir yapıya sahiptir. Yeni başlangıçlara olan ilgisi ve kararlılığıyla bilinir."
+  },
     {
-      "ad": "Aslan",
-      "resimURL": "https://rawcdn.githack.com/Zeynepdrnxs/ProjectApis-main/51a53e9f796251561592eb5767556282c78670a8/hayvanlar/aslan.png",
-      "detay": "https://rawcdn.githack.com/Zeynepdrnxs/ProjectApis-main/51a53e9f796251561592eb5767556282c78670a8/hayvanlar/html/aslan.html",
-      "ozellikler": ["Güçlü", "Sosyal", "Avcı"]
+      "baslik": "Kartal",
+      "altBaslik": ["Uçucu", "Keskin Bakışlı", "Yüksekten Uçucu"],
+      "resimURL": "https://raw.githack.com/Zeynepdrnxs/ProjectApis-main/master/hayvanlar/kartal.png",
+      "detay": "Burcunuz Koç, enerjik ve liderlik özelliklerine sahip bir burçtur. Cesur, bağımsız ve atılgan bir yapıya sahiptir. Yeni başlangıçlara olan ilgisi ve kararlılığıyla bilinir."
     },
     {
-      "ad": "Kartal",
-      "resimURL": "https://rawcdn.githack.com/Zeynepdrnxs/ProjectApis-main/51a53e9f796251561592eb5767556282c78670a8/hayvanlar/kartal.png",
-      "detay": "https://rawcdn.githack.com/Zeynepdrnxs/ProjectApis-main/51a53e9f796251561592eb5767556282c78670a8/hayvanlar/html/kartal.html",
-      "ozellikler": ["Uçucu", "Keskin Bakışlı", "Yüksekten Uçucu"]
+      "baslik": "Balina",
+      "altBaslik": ["Devasa", "Denizde Yaşayan", "Sosyal"],
+      "resimURL": "https://raw.githack.com/Zeynepdrnxs/ProjectApis-main/master/hayvanlar/balina.png",
+      "detay": "Burcunuz Koç, enerjik ve liderlik özelliklerine sahip bir burçtur. Cesur, bağımsız ve atılgan bir yapıya sahiptir. Yeni başlangıçlara olan ilgisi ve kararlılığıyla bilinir."
     },
     {
-      "ad": "Balina",
-      "resimURL": "https://rawcdn.githack.com/Zeynepdrnxs/ProjectApis-main/51a53e9f796251561592eb5767556282c78670a8/hayvanlar/balina.png",
-      "detay": "https://rawcdn.githack.com/Zeynepdrnxs/ProjectApis-main/51a53e9f796251561592eb5767556282c78670a8/hayvanlar/html/balina.html",
-      "ozellikler": ["Devasa", "Denizde Yaşayan", "Sosyal"]
+      "baslik": "Kurbağa",
+      "altBaslik": ["Suda ve Karada Yaşayan", "Zıplayıcı", "Tekerleği Gibi Gözleri"],
+      "resimURL": "https://raw.githack.com/Zeynepdrnxs/ProjectApis-main/master/hayvanlar/kurbaga.png",
+      "detay": "Burcunuz Koç, enerjik ve liderlik özelliklerine sahip bir burçtur. Cesur, bağımsız ve atılgan bir yapıya sahiptir. Yeni başlangıçlara olan ilgisi ve kararlılığıyla bilinir."
     },
     {
-      "ad": "Kurbağa",
-      "resimURL": "https://rawcdn.githack.com/Zeynepdrnxs/ProjectApis-main/51a53e9f796251561592eb5767556282c78670a8/hayvanlar/kurbaga.png",
-      "detay": "https://rawcdn.githack.com/Zeynepdrnxs/ProjectApis-main/51a53e9f796251561592eb5767556282c78670a8/hayvanlar/html/kurbaga.html",
-      "ozellikler": ["Suda ve Karada Yaşayan", "Zıplayıcı", "Tekerleği Gibi Gözleri"]
-    },
-    {
-      "ad": "Koala",
-      "resimURL": "https://rawcdn.githack.com/Zeynepdrnxs/ProjectApis-main/51a53e9f796251561592eb5767556282c78670a8/hayvanlar/koala.png",
-      "detay": "https://rawcdn.githack.com/Zeynepdrnxs/ProjectApis-main/51a53e9f796251561592eb5767556282c78670a8/hayvanlar/html/koala.html",
-      "ozellikler": ["Ağaçlarda Yaşayan", "Yavaş Hareket Eden", "Eukaliptüs Yiyen"]
+      "baslik": "Koala",
+      "altBaslik": ["Ağaçlarda Yaşayan", "Yavaş Hareket Eden", "Eukaliptüs Yiyen"],
+      "resimURL": "https://raw.githack.com/Zeynepdrnxs/ProjectApis-main/master/hayvanlar/koala.png",
+      "resimURL": "https://raw.githack.com/Zeynepdrnxs/ProjectApis-main/master/hayvanlar/aslan.png",
+      "detay": "Burcunuz Koç, enerjik ve liderlik özelliklerine sahip bir burçtur. Cesur, bağımsız ve atılgan bir yapıya sahiptir. Yeni başlangıçlara olan ilgisi ve kararlılığıyla bilinir."
     }
-  ]
+]
+
+
