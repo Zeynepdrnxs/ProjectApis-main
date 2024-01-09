@@ -1,31 +1,31 @@
 [
   {
     "baslik": "Aslan",
-    "altBaslik": ["Güçlü", "Sosyal", "Avcı"],
+    "altBaslik": "Güçlü, Sosyal, Avcı",
     "resimURL": "https://raw.githack.com/Zeynepdrnxs/ProjectApis-main/master/hayvanlar/aslan.png",
     "detay": "Burcunuz Koç, enerjik ve liderlik özelliklerine sahip bir burçtur. Cesur, bağımsız ve atılgan bir yapıya sahiptir. Yeni başlangıçlara olan ilgisi ve kararlılığıyla bilinir."
   },
     {
       "baslik": "Kartal",
-      "altBaslik": ["Uçucu", "Keskin Bakışlı", "Yüksekten Uçucu"],
+      "altBaslik": "Uçucu, Keskin Bakışlı, Yüksekten Uçucu",
       "resimURL": "https://raw.githack.com/Zeynepdrnxs/ProjectApis-main/master/hayvanlar/kartal.png",
       "detay": "Burcunuz Koç, enerjik ve liderlik özelliklerine sahip bir burçtur. Cesur, bağımsız ve atılgan bir yapıya sahiptir. Yeni başlangıçlara olan ilgisi ve kararlılığıyla bilinir."
     },
     {
       "baslik": "Balina",
-      "altBaslik": ["Devasa", "Denizde Yaşayan", "Sosyal"],
+      "altBaslik": "Devasa, Denizde Yaşayan, Sosyal",
       "resimURL": "https://raw.githack.com/Zeynepdrnxs/ProjectApis-main/master/hayvanlar/balina.png",
       "detay": "Burcunuz Koç, enerjik ve liderlik özelliklerine sahip bir burçtur. Cesur, bağımsız ve atılgan bir yapıya sahiptir. Yeni başlangıçlara olan ilgisi ve kararlılığıyla bilinir."
     },
     {
       "baslik": "Kurbağa",
-      "altBaslik": ["Suda ve Karada Yaşayan", "Zıplayıcı", "Tekerleği Gibi Gözleri"],
+      "altBaslik": "Suda ve Karada Yaşayan, Zıplayıcı, Tekerleği Gibi Gözleri,
       "resimURL": "https://raw.githack.com/Zeynepdrnxs/ProjectApis-main/master/hayvanlar/kurbaga.png",
       "detay": "Burcunuz Koç, enerjik ve liderlik özelliklerine sahip bir burçtur. Cesur, bağımsız ve atılgan bir yapıya sahiptir. Yeni başlangıçlara olan ilgisi ve kararlılığıyla bilinir."
     },
     {
       "baslik": "Koala",
-      "altBaslik": ["Ağaçlarda Yaşayan", "Yavaş Hareket Eden", "Eukaliptüs Yiyen"],
+      "altBaslik": "Ağaçlarda Yaşayan, Yavaş Hareket Eden, Eukaliptüs Yiyen",
       "resimURL": "https://raw.githack.com/Zeynepdrnxs/ProjectApis-main/master/hayvanlar/koala.png",
       "resimURL": "https://raw.githack.com/Zeynepdrnxs/ProjectApis-main/master/hayvanlar/aslan.png",
       "detay": "Burcunuz Koç, enerjik ve liderlik özelliklerine sahip bir burçtur. Cesur, bağımsız ve atılgan bir yapıya sahiptir. Yeni başlangıçlara olan ilgisi ve kararlılığıyla bilinir."
