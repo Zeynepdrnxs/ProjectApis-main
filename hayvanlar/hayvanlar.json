@@ -3,31 +3,31 @@
     "baslik": "Aslan",
     "altBaslik": "Güçlü, Sosyal, Avcı",
     "resimURL": "https://raw.githack.com/Zeynepdrnxs/ProjectApis-main/master/hayvanlar/aslan.png",
-    "detay": "Burcunuz Koç, enerjik ve liderlik özelliklerine sahip bir burçtur. Cesur, bağımsız ve atılgan bir yapıya sahiptir. Yeni başlangıçlara olan ilgisi ve kararlılığıyla bilinir."
+    "detay": "Aslan veya arslan (Panthera leo), Panthera cinsindeki büyük kedilerden biridir ve kedigiller (Felidae) ailesinin bir üyesidir. 184-208 cm (72-82 in) kafa-gövde uzunluğuna sahip yetişkin erkek bireyler, 160-184 cm (63-72 in) uzunluğundaki dişilerden daha büyüktür. Pride adı verilen gruplar oluşturan sosyal bir türdür."
   },
     {
       "baslik": "Kartal",
       "altBaslik": "Uçucu, Keskin Bakışlı, Yüksekten Uçucu",
       "resimURL": "https://raw.githack.com/Zeynepdrnxs/ProjectApis-main/master/hayvanlar/kartal.png",
-      "detay": "Burcunuz Koç, enerjik ve liderlik özelliklerine sahip bir burçtur. Cesur, bağımsız ve atılgan bir yapıya sahiptir. Yeni başlangıçlara olan ilgisi ve kararlılığıyla bilinir."
+      "detay": "Diğer yırtıcı kuşlar gibi eğri gagaları, kaslı bacakları ve güçlü pençeleri vardır. Eğri gaga yapısı avlarının etlerini söküp almaya yardımcı olurken, kaslı bacakları ve kilitlenebilen pençeleri sayesinde kendilerinden daha ağır avları bile uçarak taşıyabilirler. Kartalların görme yetenekleri çok gelişmiştir."
     },
     {
       "baslik": "Balina",
       "altBaslik": "Devasa, Denizde Yaşayan, Sosyal",
       "resimURL": "https://raw.githack.com/Zeynepdrnxs/ProjectApis-main/master/hayvanlar/balina.png",
-      "detay": "Burcunuz Koç, enerjik ve liderlik özelliklerine sahip bir burçtur. Cesur, bağımsız ve atılgan bir yapıya sahiptir. Yeni başlangıçlara olan ilgisi ve kararlılığıyla bilinir."
+      "detay": "Balina bir takson değildir, Cetacea infra takımı içinde formel olmayan bir gruplamadır. Balinalar açık denizlerin yaratıklarıdır; denizde beslenirler, çiftleşirler, doğururlar, yavrularını denizde emzirir ve büyütürler. Yaşamları denizde yaşamaya öyle çok uyum sağlamıştır ki karada hayatta kalamazlar."
     },
     {
       "baslik": "Kurbağa",
       "altBaslik": "Suda ve Karada Yaşayan, Zıplayıcı, Tekerleği Gibi Gözleri",
       "resimURL": "https://raw.githack.com/Zeynepdrnxs/ProjectApis-main/master/hayvanlar/kurbaga.png",
-      "detay": "Burcunuz Koç, enerjik ve liderlik özelliklerine sahip bir burçtur. Cesur, bağımsız ve atılgan bir yapıya sahiptir. Yeni başlangıçlara olan ilgisi ve kararlılığıyla bilinir."
+      "detay": "Kurbağalar omurgalılar şubesinin amfibi sınıfında yer alan hayvanlardır. Kurbağalar 4 bacaklı hayvanlardır ve yumurta ile çoğalırlar. Bunun yanı sıra yaşam döngülerinin ilk dönemlerinde suda yaşamaktadırlar. Aynı zamanda larva halinde bulunan kurbağa yavrusunda halk arasında iribaş adı verilmektedir."
     },
     {
       "baslik": "Koala",
       "altBaslik": "Ağaçlarda Yaşayan, Yavaş Hareket Eden, Eukaliptüs Yiyen",
       "resimURL": "https://raw.githack.com/Zeynepdrnxs/ProjectApis-main/master/hayvanlar/koala.png",
-      "detay": "Burcunuz Koç, enerjik ve liderlik özelliklerine sahip bir burçtur. Cesur, bağımsız ve atılgan bir yapıya sahiptir. Yeni başlangıçlara olan ilgisi ve kararlılığıyla bilinir."
+      "detay": "Koala, körelmiş bir kuyruğa sahip ya da kuyruksuz, tıknaz bir hayvandır. Boyu 60 ila 85 cm, kütlesi ise 4 ila 15 kg arasında değişir. Bu boyutları ile Avustralya'da, yaşamını ağaçlarda sürdüren en büyük memelidir. Victoria koalalarının kütlesi Queensland koalalarınınkinin iki katı kadardır."
     }
 ]
 
